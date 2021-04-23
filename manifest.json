@@ -2,7 +2,7 @@
   "name": "DevCommands",
   "version": "0.2.1",
   "description": "Commands for querying common sites used during development and other dev utilities",
-  "author": "tobimori",
+  "author": "Descendo The Monkei#6311",
   "license": "MIT",
   "permissions": ["ext_api"]
 }
